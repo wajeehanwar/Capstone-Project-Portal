@@ -39,7 +39,7 @@ A web-based application to manage projects for software engineering courses that
 
 ## View
 
-Yoy can [view](https://wajeehanwar.github.io/Capstone-Project-Portal/) it here.
+You can [view](https://wajeehanwar.github.io/Capstone-Project-Portal/) it here.
 
 ## How To Use
 
