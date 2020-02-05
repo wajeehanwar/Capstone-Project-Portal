@@ -10,6 +10,7 @@
 <a href="#overview">Overview</a> •
 <a href="#features">Features</a> •
 <a href="#software-requirements-specification">SRS</a> •
+<a href="#view">View</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
@@ -35,6 +36,10 @@ A web-based application to manage projects for software engineering courses that
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://raw.githubusercontent.com/wajeehanwar/Capstone-Project-Portal/master/docs/Capstone_Project_Portal_SRS.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+## View
+
+Yoy can [view](https://wajeehanwar.github.io/Capstone-Project-Portal/) it here.
 
 ## How To Use
 
